@@ -21,7 +21,7 @@ Atualmente, estou buscando uma oportunidade no mercado de trabalho como desenvol
 [![Jv1327 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jv1327&layout=donut)](https://github.com/Jv1327/github-readme-stats)
 
 <div> 
-  <a href="AQUI VAI O LINK DO INSTAGRAM target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/joaovictorrodriguesdeo/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "jvrodrigues132770@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-victor-2041771a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
